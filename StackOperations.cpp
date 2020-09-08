@@ -145,7 +145,7 @@ class Stack{
                 s1.display();
                 break;
             case 9:
-               system("cls");
+               system("clear");
                break;    
             default:
                 cout<<"Enter a valid option!"<<endl;
